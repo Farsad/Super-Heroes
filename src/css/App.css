@@ -1,0 +1,38 @@
+.App-header {
+  text-align: center;
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.App-headerButton {
+  display: inline-block;
+  background: #0095ff;
+  border-radius: 4px;
+  padding: 11px;
+  margin: 10px 10px 0 0;
+  cursor: pointer;
+}
+.App-headerButton:hover{
+  background: #56b4f7;
+}
+
+.App-heroes {
+  max-width: 710px;
+  margin: 10px auto;
+}
+
+.App-heroes a{
+  font-size: large;
+  color: #fff !important;
+  text-decoration: none;
+}
+.App-heroes a:hover{
+  color: #56b4f7 !important;
+}
+
+.App-content {
+  max-width: 710px;
+  margin: 0 auto;
+  background: #f5f5f5;
+}

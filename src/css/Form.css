@@ -1,0 +1,47 @@
+.Form {
+  padding: 20px;
+}
+
+.Form-fieldSet {
+  padding-left: 10px;
+}
+
+.Form-field {
+  padding: 10px 0;
+}
+
+.Form-label input {
+  margin-left: 10px;
+}
+
+.Form-label textarea {
+  display: block;
+  width: 100%;
+}
+
+.Form-fieldInfo {
+  font-size: 8px;
+}
+
+
+.Form-submit {
+  display: inline-block;
+  min-width: 110px;
+  padding: 11px;
+  margin: 10px 10px 0 0;
+  border: 0 none;
+  border-radius: 4px;
+  background: #0095ff;
+  color: #FFF;
+  cursor: pointer;
+}
+
+.Form-submit:hover {
+  background: #56b4f7;
+}
+
+.Form-success {
+  padding: 50px;
+  text-align: center;
+  font-size: 41px;
+}
